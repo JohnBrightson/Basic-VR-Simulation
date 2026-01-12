@@ -1,6 +1,6 @@
 # VR Maze Simulation
 
-## 🕶 About the Project
+##  About the Project
 This is a **Virtual Reality maze simulation** developed using **Unity**.  
 The environment is a **custom-designed maze modeled in Blender** and integrated into Unity for an immersive VR experience.
 
